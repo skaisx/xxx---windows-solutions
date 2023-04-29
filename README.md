@@ -1,3 +1,3 @@
 # xxx - windows-solutions
-./background.jpg
+<body background="./background.jpg">
 skais os            stututu pc
