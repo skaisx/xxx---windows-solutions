@@ -3,7 +3,7 @@
 </h1>
   <p align="center">
    <p align="center">
-  <a href="https://atlasos.net">Website</a>
+  <a href="https://atlasos.net" target="_blank">Website</a>
   •
   <a href="https://discord.atlasos.net" target="_blank">Discord</a>
 </p>
