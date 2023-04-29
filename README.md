@@ -2,20 +2,12 @@
   <a href="http:/google.com"><img src="https://github.com/skaisx/xxx-windows-solutions/blob/main/background.jpg" alt="Atlas" width="1000" style="border-radius: 30px"></a>
 </h1>
   <p align="center">
-    <a href="https://github.com/Atlas-OS/Atlas/releases/latest">
-      <img alt="Release" src="https://img.shields.io/github/release/atlas-os/atlas?style=for-the-badge&color=1A91FF" />
-    </a>
-    <a href="https://github.com/Atlas-OS/Atlas/releases">
-      <img alt="Release Downloads" src="https://img.shields.io/github/downloads/Atlas-OS/Atlas/total?style=for-the-badge&logo=github&color=1A91FF" />
-    </a>
-  </p>
-<h4 align="center">An open and transparent operating system, designed to optimize performance, privacy and stability.</h4>
-
-<p align="center">
+   <p align="center">
   <a href="https://atlasos.net">Website</a>
   •
   <a href="https://discord.atlasos.net" target="_blank">Discord</a>
 </p>
+<h4 align="center">An open and transparent operating system, designed to optimize performance, privacy and stability.</h4>
 
 ## 🤔 **What is Atlas?**
 
