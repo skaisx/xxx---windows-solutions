@@ -14,11 +14,7 @@
 <p align="center">
   <a href="https://atlasos.net">Website</a>
   •
-  <a href="https://docs.atlasos.net">Documentation</a>
-  •
   <a href="https://discord.atlasos.net" target="_blank">Discord</a>
-  •
-  <a href="https://forum.atlasos.net">Forum</a>
 </p>
 
 # Read this file in other languages
