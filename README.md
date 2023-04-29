@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="http://atlasos.net"><img src="https://github.com/skaisx/xxx-windows-solutions/blob/main/background.jpg" alt="Atlas" width="950" style="border-radius: 30px"></a>
+  <a href="http://atlasos.net"><img src="https://github.com/skaisx/xxx-windows-solutions/blob/main/background.jpg" alt="Atlas" width="1000" style="border-radius: 30px"></a>
 </h1>
   <p align="center">
     <a href="https://github.com/Atlas-OS/Atlas/blob/main/LICENSE">
