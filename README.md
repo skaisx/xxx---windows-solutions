@@ -2,7 +2,6 @@
   <a href="http:/google.com"><img src="https://github.com/skaisx/xxx-windows-solutions/blob/main/background.jpg" alt="Atlas" width="1000" style="border-radius: 30px"></a>
 </h1>
   <p align="center">
-   <p align="center">
   <a href="https://atlasos.net" target="_blank">Website</a>
   •
   <a href="https://discord.atlasos.net" target="_blank">Discord</a>
