@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="http:/google.com"><img src="https://github.com/skaisx/xxx-windows-solutions/blob/main/background.jpg" alt="Atlas" width="1000" style="border-radius: 30px"></a>
+  <a><img src="https://github.com/skaisx/xxx-windows-solutions/blob/main/background.jpg" alt="Atlas" width="1000" style="border-radius: 30px"></a>
 </h1>
   <p align="center">
   <a href="https://atlasos.net" target="_blank">Website</a>
