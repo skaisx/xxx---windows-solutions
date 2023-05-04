@@ -73,12 +73,6 @@ Many custom Windows OSes distribute their systems by providing a tweaked ISO of 
 
 Atlas partnered with Windows Ameliorated Team to provide users a safer and legal way to install: the [AME Wizard](https://ameliorated.io). With it, Atlas fully complies with [Microsoft's Terms of Service](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm).
 
-## 🎨 Brand kit
-Feeling creative? Want to create your own Atlas wallpaper with some original creative designs? Our brand kit has got you covered!
-Anyone can access the Atlas brand kit — you can download it [here](https://cdn.jsdelivr.net/gh/Atlas-OS/Atlas@main/img/brand-kit.zip) and make something spetacular!
-
-We also have a dedicated area on our [forum](https://forum.atlasos.net/t/art-showcase), so you can share your creations with other creative geniuses and maybe even spark some inspiration! You can also find creative wallpapers that other users share here too!
-
 ## ⚠️ Disclaimer
 Atlas-OS is **NOT** a pre-activated version of Windows. You **must** use a valid key to activate Windows. Before buying a Windows 10 (Professional or Home) license, be sure the seller is trustworthy and the key is legitimate — no matter where you buy it.
 
