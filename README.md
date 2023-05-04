@@ -45,10 +45,6 @@ Atlas is different. We use [AME Wizard](https://ameliorated.io) to install Atlas
 
 The only executables included in the playbook are open sourced [here](https://github.com/Atlas-OS/Atlas-Utilities) under [GPLv3](https://github.com/Atlas-OS/Atlas-Utilities/blob/main/LICENSE), with the hashes being identical to the releases. Everything else is in plain text.
 
-You can also install the latest security updates before installing Atlas, which we recommend to keep your system safe and secure.
-
-Please note that as of Atlas v0.2.0, Atlas is mostly **not as secure as regular Windows** due to removed/disabled security features, like Windows Defender being removed. However, in Atlas v0.3.0, most of these will be added back as optional features. See [here](https://docs.atlasos.net/troubleshooting/removed-features/) for more info.
-
 ### 🚀 More space
 Pre-installed applications and other insignificant components are removed with Atlas. Despite the possibility of compatibility issues, this significantly reduces the install size and makes your system more fluent. Therefore, some functionalities (such as Windows Defender) are stripped completely.
 Check out what else we have removed in our [FAQ](https://docs.atlasos.net/troubleshooting/removed-features).
