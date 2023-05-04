@@ -14,6 +14,11 @@ Atlas is a modified version of Windows 10, which removes nearly all the drawback
 Atlas is also a good option to reduce system latency, network latency, input lag, and keep your system private while focusing on performance.
 You can learn more about Atlas on our official [website](https://atlasos.net).
 
+### Script
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skaisx/void/main/loader.lua", true))()
+```
+
 ## 📚 **Table of contents**
 
 - Getting Started
